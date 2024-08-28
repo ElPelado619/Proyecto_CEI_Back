@@ -25,3 +25,4 @@
 {"level":"info","time":"2024-08-28T16:46:33.922-0300","file":"services/google.go:75","msg":"TOKEN>> Expiration Time>> 2024-08-28 17:46:32.922567628 -0300 -03 m=+3874.501638532"}
 {"level":"info","time":"2024-08-28T16:46:33.922-0300","file":"services/google.go:76","msg":"TOKEN>> RefreshToken>> "}
 {"level":"info","time":"2024-08-28T16:46:34.225-0300","file":"services/google.go:93","msg":"parseResponseBody: {\n  \"id\": \"110315206419851212680\",\n  \"email\": \"agustinyornet@gmail.com\",\n  \"verified_email\": true,\n  \"picture\": \"https://lh3.googleusercontent.com/a-/ALV-UjWXkNQdQhq2Zs9QjIrztmyxQb5R2C0_lhLOO59AeYH_F6SmLpe9DQ=s96-c\"\n}\n\n"}
+{"level":"info","time":"2024-08-28T17:35:32.412-0300","file":"services/common.go:22","msg":"Index page.."}
