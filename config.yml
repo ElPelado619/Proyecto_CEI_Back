@@ -1,7 +1,0 @@
-port: 8080
-logger-output-path: "log.txt"
-
-oauthStateString: ""
-google:
-  clientID: "413952983968-jjpnirrjpmn2u1mmgji86dvs6pqq2kn0.apps.googleusercontent.com"
-  clientSecret: "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"
